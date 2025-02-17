@@ -1,1 +1,4 @@
 lib/backend/firebase/firebase_config.dart
+ios/Runner/GoogleService-Info.plist
+web/index.html
+android/app/src/main/AndroidManifest.xml
