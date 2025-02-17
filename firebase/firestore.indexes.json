@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "lecturas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "lista",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fechaLectura",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "encabezado",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "receptor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "lecturas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "medidor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fechaLectura",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

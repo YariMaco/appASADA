@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "332480024530",
+    "project_id": "acueductoruralcr2025",
+    "storage_bucket": "acueductoruralcr2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332480024530:android:598fec960cd17f907a820b",
+        "android_client_info": {
+          "package_name": "com.AquaGestion.acueductosrurales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332480024530-2jn7g4l3he94efseape3q7mfs6q651pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AquaGestion.acueductosrurales",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "332480024530-jrcbg5df1u79up9f8qodnsq3t8p8h3kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChaAGnpgtlpqdnkpzmZQU-PGZr6KNpwO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332480024530-jrcbg5df1u79up9f8qodnsq3t8p8h3kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332480024530-6u1dgeb8jpt7ncft549fuotje75mtcp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AquaGestion.acueductosrurales"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332480024530:android:fb1a562b7217c8ed7a820b",
+        "android_client_info": {
+          "package_name": "com.solucionagua.proyectoacueductos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332480024530-albabd7dupc4l0na5veqhkvml85u04pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solucionagua.proyectoacueductos",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "332480024530-jrcbg5df1u79up9f8qodnsq3t8p8h3kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChaAGnpgtlpqdnkpzmZQU-PGZr6KNpwO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332480024530-jrcbg5df1u79up9f8qodnsq3t8p8h3kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332480024530-6u1dgeb8jpt7ncft549fuotje75mtcp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AquaGestion.acueductosrurales"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332480024530:android:a1f429675bcaaad17a820b",
+        "android_client_info": {
+          "package_name": "com.solucionagua.proyectoasada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332480024530-79k226565dpcodtr079ihlaf4seidal8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solucionagua.proyectoasada",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "332480024530-jrcbg5df1u79up9f8qodnsq3t8p8h3kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChaAGnpgtlpqdnkpzmZQU-PGZr6KNpwO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332480024530-jrcbg5df1u79up9f8qodnsq3t8p8h3kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332480024530-6u1dgeb8jpt7ncft549fuotje75mtcp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AquaGestion.acueductosrurales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
